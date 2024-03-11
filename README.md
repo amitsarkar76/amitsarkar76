@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://t.me/lll_THUNDERXD_llll)
 <h1 align="center">Hi👋, I'm Amit sarkar</h1>
-<h3 align="center">I'm Amit Sarkar and i'm frontend and backend developer with more then 1 years experience from India and I am working in various fields, Starting with human resources. I have always been hard working and goal's focused with proven results.</h3>
+<h3 align="center">I'm Amit Sarkar and I'am full stack develpoer with experience of more than 1 year experience from India and I am working in various fields, starting with human resources. I have always been hard working and goal's focused with proven results.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsarkar76&label=Profile%20views&color=0e75b6&style=flat" alt="amitsarkar76" /> </p>
@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [Gmail](https://github.com/amitsarkar76)
 
-- 📝 My Telegram Channel [Telegram channel](https://t.me/FAKE_SMILE_78)
+- 📝 My Telegram Channel [Telegram channel](https://t.me/LETS_DEBUG)
 
 - 💬 Ask me about **react**
 
