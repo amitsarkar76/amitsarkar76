@@ -1,4 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://www.instagram.com/web_addiction7/)
+[[![MasterHead]
+<img src="https://i.pinimg.com/enabled_hi/564x/bb/b5/e2/bbb5e2e3361a6a39bcad1d7bd380ea47.jpg" alt="https://www.instagram.com/web_addiction7/">
 <h1 align="center">Hi👋, I'm Amit sarkar</h1>
 <h3 align="center">I'm Amit Sarkar and I'am full stack develpoer with experience of more than 1 year experience from India and I am working in various fields, starting with human resources. I have always been hard working and goal's focused with proven results.</h3>
 
