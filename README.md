@@ -1,5 +1,4 @@
 
-<p <img align="center" width="500" src="https://i.pinimg.com/enabled_hi/564x/bb/b5/e2/bbb5e2e3361a6a39bcad1d7bd380ea47.jpg" alt="https://www.instagram.com/web_addiction7/"> </p>
 <h1 align="center">Hi👋, I'm Amit sarkar</h1>
 <h3 align="center">I'm Amit Sarkar and I'am full stack develpoer with experience of more than 1 year experience from India and I am working in various fields, starting with human resources. I have always been hard working and goal's focused with proven results.</h3>
 
