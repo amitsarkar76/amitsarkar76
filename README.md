@@ -210,8 +210,9 @@ I'm an adventurous tech enthusiast with a focus on Web Development, DevOps, and 
 
 <br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://t.me/BUY_MEE_A_COFFEE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" https://t.me/BUY_MEE_A_COFFEE" /></a></p><br><br>
+<h3 align="left">☕ Support Me!</h3>
+<h3 align="left"> If you enjoy my work, consider buying me a coffee to keep me fueled and coding!</h3>
+<p><a href="https://www.buymeacoffee.com/rokhisarkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rokhisarkar" /></a></p><br><br>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?color=D39D55&width=420&lines=Thanks+for+visiting!">
